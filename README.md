@@ -1,2 +1,3 @@
 # lab_2
-A make a small labratory work 2
+
+i use a $ git clone https://github.com/AntonioBanderas1488/lab_2
