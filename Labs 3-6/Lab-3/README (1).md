@@ -4,7 +4,7 @@
 
 
 "C:\Users\user\AppData\Local\Microsoft\WindowsApps\python.exe"
-"C:\Users\user\documents\Labs 3-6\Lab-3\pairs.py"
+"C:\Users\user\documents\Labs 3-6\Lab-3\pairs_lab2.py"
 
 ## Запуск програми з консолі 
 ```bash
